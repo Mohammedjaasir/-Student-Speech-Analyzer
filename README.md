@@ -79,8 +79,4 @@ Exports a feedback PDF for revision or practice
 Built with ❤️ by Jaax
 Original idea inspired by Colin Dorman, who sparked the need for better automated speech feedback tools in education.
 
-Let me know:
-- Your actual GitHub repo link so I can update the `git clone` URL
-- If you want badges (e.g. “Built with Streamlit,” license, etc.)
-- If you want a version in **Tamil** or with **emoji-free** format for formal submission
 
