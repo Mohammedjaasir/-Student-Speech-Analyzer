@@ -4,6 +4,14 @@ A Generative AI-powered web app that analyzes student speeches and provides real
 
 ---
 
+[👉 Try the code](https://github.com/Mohammedjaasir/-Student-Speech-Analyzer)
+
+---
+
+## 🖼️ Demo Screenshots
+
+<img width="960" alt="Screenshot 2025-06-21 144320" src="https://github.com/user-attachments/assets/7a2d6eab-8a63-4d1d-a7c7-73444144f626" />
+
 ## 🚀 Features
 
 - 🎙️ Upload or record `.wav` speech files
