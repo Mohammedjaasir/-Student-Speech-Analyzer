@@ -1,5 +1,5 @@
-streamlit
-openai-whisper
+streamlit==1.26.0
+openai-whisper==20230918
 torch
 groq
 python-dotenv
