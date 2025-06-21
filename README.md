@@ -46,7 +46,7 @@ student-speech-analyzer/
 
 ## 🔧 Installation
 
-git clone https://github.com/Mohammedjaasir/-Student-Speech-Analyzerr.git
+git clone https://github.com/Mohammedjaasir/-Student-Speech-Analyzer.git
 cd student-speech-analyzer
 pip install -r requirements.txt
 
